@@ -1,0 +1,6 @@
+{
+  "name": "Galeri Simple",
+  "description": "Aplikasi galeri foto dan video cepat, elegan, dan kaya fitur dengan editor gambar, perlindungan privasi, dan manajemen album cerdas oleh Febri Gusti Prianto.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
